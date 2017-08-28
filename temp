@@ -1,0 +1,156 @@
+https://api.cdnjs.com/libraries?search=es&output=human&fields=version,description,homepage,repository
+
+//
+c3
+co
+d3
+dc
+F2
+g9
+he
+jo
+mo
+mu
+oj
+qs
+t7
+
+//repos other than git
+datejs Google SVN
+diff_match_patch svn
+dojo svn
+galleriffic svn
+geo-location-javascript svn
+jinplace hg
+jquery-ui-map svn
+js-url github
+ninjaui plain file
+openajax-hub svn
+piecon github
+screenfull.js github
+swfobject svn
+tinycon github
+toxiclibsjs plain file
+
+
+{
+  "results": [
+    {
+      "name": "font-awesome",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    },
+    {
+      "name": "font-awesome-animation",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome-animation/0.0.10/font-awesome-animation.min.css"
+    },
+    {
+      "name": "weather-icons",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/css/weather-icons.min.css"
+    },
+    {
+      "name": "iconate",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/iconate/0.2.7/iconate.min.js"
+    },
+    {
+      "name": "bootstrap-rating",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-rating/1.4.0/bootstrap-rating.min.js"
+    }
+  ],
+  "total": 9
+}
+
+{
+  "results": [
+    {
+      "name": "font-awesome",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
+      "description": "The iconic font and CSS framework",
+      "version": "4.7.0",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/FortAwesome/Font-Awesome.git"
+      }
+    },
+    {
+      "name": "font-awesome-animation",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome-animation/0.0.10/font-awesome-animation.min.css",
+      "description": "Simple animations using some CSS3 I found on the web. Best used on glyphicons like",
+      "version": "0.0.10",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/l-lin/font-awesome-animation.git"
+      }
+    },
+    {
+      "name": "weather-icons",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/css/weather-icons.min.css",
+      "description": "215 weather themed icons inspired by Font Awesome and ready for Bootstrap",
+      "version": "2.0.9",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/erikflowers/weather-icons.git"
+      }
+    },
+    {
+      "name": "iconate",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/iconate/0.2.7/iconate.min.js",
+      "description": "A light-weight library to animate your font-awesome like icons",
+      "version": "0.2.7",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/bitshadow/iconate.git"
+      }
+    },
+    {
+      "name": "awesome-bootstrap-checkbox",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/awesome-bootstrap-checkbox/0.3.7/awesome-bootstrap-checkbox.min.css",
+      "description": "Font Awesome Bootstrap Checkboxes & Radios. Pure css way to make inputs look prettier.",
+      "version": "0.3.7",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/flatlogic/awesome-bootstrap-checkbox.git"
+      }
+    },
+    {
+      "name": "Leaflet.awesome-markers",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.min.js",
+      "description": "Colorful iconic & retina-proof markers for Leaflet, based on the Glyphicons / Font-Awesome icons",
+      "version": "2.0.2",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/lvoogdt/Leaflet.awesome-markers.git"
+      }
+    },
+    {
+      "name": "academicons",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.0/css/academicons.min.css",
+      "description": "Academicons is an icon font for academics. It aims to supplement other packages (such as Font Awesome) with icons for academic websites.",
+      "version": "1.8.0",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/jpswalsh/academicons.git"
+      }
+    },
+    {
+      "name": "Leaflet.EasyButton",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/Leaflet.EasyButton/2.2.0/easy-button.min.js",
+      "description": "easily add control buttons to your leaflet maps with icon support",
+      "version": "2.2.0",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/CliffCloud/Leaflet.EasyButton.git"
+      }
+    },
+    {
+      "name": "bootstrap-rating",
+      "latest": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-rating/1.4.0/bootstrap-rating.min.js",
+      "description": "A small jQuery plugin that turns an input field into a highly customizable rating component",
+      "version": "1.4.0",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/dreyescat/bootstrap-rating.git"
+      }
+    }
+  ],
+  "total": 9
+}
