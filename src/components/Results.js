@@ -24,7 +24,7 @@ class Results extends Component {
             {
               resultText !== null ? 
               <label className='welcome-text'>{resultText}</label> : 
-              <label><i className="fa fa-spinner fa-spin fa-2x"/></label>
+              <label><i className="fa fa-spinner fa-pulse fa-spin fa-2x"/></label>
             }
             </div>
         }
